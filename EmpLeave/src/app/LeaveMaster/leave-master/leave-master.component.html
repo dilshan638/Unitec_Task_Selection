@@ -1,0 +1,57 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="cnt">Leave Application</h4>
+                    <!--form -->
+                    </div>
+
+                    
+                </div>
+                <div class="card-body">
+                    <form >
+
+                        <div class="form-group">
+                            Emp No:<input type="text" name="lanumber"  #lanumber="ngModel" [(ngModel)]="employee_leave.leaveData.EmployeeNumber"  class="form-control" placeholder="Emp No" required>
+        
+                        </div>
+                        
+                   
+                        
+                         <div class="form-group">
+                            Applied Date:<input type="text" name="applieddate"  #applieddate="ngModel" [(ngModel)]="employee_leave.leaveData.AppliedDate" class="form-control" placeholder="Applied Date" required>
+         
+                         </div>
+                        
+                         <div class="form-group">
+                            Leave Date:<input type="text" name="leavedate" #leavedate="ngModel" [(ngModel)]="employee_leave.leaveData.LeaveDate"  class="form-control" placeholder="Leave Date" required>
+         
+                         </div>
+                         
+                         <div class="form-group">
+                            Number Of Date:<input type="text" name="ndate"  #ndate="ngModel" [(ngModel)]="employee_leave.leaveData.NumberOfDate" class="form-control" placeholder="Number Of Date" required>
+         
+                         </div>
+                         
+                         <div class="form-group">
+                          Reason:<input type="text" name="reson" #reson="ngModel" [(ngModel)]="employee_leave.leaveData.reason"  class="form-control" placeholder="Reason" required>
+         
+                         </div>
+                         
+                         
+                         <div class="form-group">
+                            <button class="btn btn-primary" type="submit"  >Apply</button>
+                        </div>
+
+                        <div class="form-group">
+                            <button class="btn btn-danger" (onclick) =DeleteLeave(lanumber)  type="button"  >Delete</button>
+                        </div>
+                    </form>    
+                </div>
+                
+            </div>
+            
+        </div>
+        
+    </div>

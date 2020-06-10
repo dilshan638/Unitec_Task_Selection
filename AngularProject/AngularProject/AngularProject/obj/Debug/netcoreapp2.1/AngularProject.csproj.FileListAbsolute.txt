@@ -1,0 +1,65 @@
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.csprojAssemblyReference.cache
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.csproj.CoreCompileInputs.cache
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorAssemblyInfo.cache
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorAssemblyInfo.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.AssemblyInfoInputs.cache
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.AssemblyInfo.cs
+F:\dilshan\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.deps.json
+F:\dilshan\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.runtimeconfig.json
+F:\dilshan\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.runtimeconfig.dev.json
+F:\dilshan\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.dll
+F:\dilshan\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.pdb
+F:\dilshan\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.Views.dll
+F:\dilshan\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.Views.pdb
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.TagHelpers.input.cache
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.TagHelpers.output.cache
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorCoreGenerate.cache
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorTargetAssemblyInfo.cache
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorTargetAssemblyInfo.cs
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.Views.pdb
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.dll
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.pdb
+F:\dilshan\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.csproj.CopyComplete
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.deps.json
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.runtimeconfig.json
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.runtimeconfig.dev.json
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.dll
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.pdb
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.Views.dll
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\bin\Debug\netcoreapp2.1\AngularProject.Views.pdb
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorAssemblyInfo.cache
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorAssemblyInfo.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.AssemblyInfoInputs.cache
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.AssemblyInfo.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.TagHelpers.input.cache
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.TagHelpers.output.cache
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorCoreGenerate.cache
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorTargetAssemblyInfo.cache
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.RazorTargetAssemblyInfo.cs
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.Views.pdb
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.dll
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.pdb
+C:\Users\Dilshan Sandaruwan\Downloads\AngularProject\AngularProject\AngularProject\obj\Debug\netcoreapp2.1\AngularProject.csproj.CopyComplete
